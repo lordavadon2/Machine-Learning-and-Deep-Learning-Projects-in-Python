@@ -1,8 +1,11 @@
 jupyter
 pandas
 matplotlib
+seaborn
 plotly
 statsmodels
 tensorflow
 keras
 scikit-learn
+wordcloud
+jedi
